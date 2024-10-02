@@ -30,5 +30,5 @@ A simple Django web application that allows users to check the current weather c
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Astrokojo/Django-Weather-app.git
-cd django-weather-app
+git clone https://github.com/Astrokojo/Django-Weather.git
+cd Django-Weather
